@@ -1,4 +1,5 @@
 # Setup 
+Check it out [here](https://www.youtube.com/watch?v=z_86auSeoAI)
 
 #### You will need the following library for this to work:
 - [PixelFlow](https://github.com/diwi/PixelFlow)
@@ -12,10 +13,7 @@
     - The closer the user is to the camera, the more collisions there will be
     - The further away the more control, particles will map more to the optical flow of the body
     - If no one is in frame it will go to a resting state 
-    
-
-![headshot](https://git.uwaterloo.ca/sidesai/cs383-coursework/raw/master/A2.1/A2_1/headshot.png)
-    
+        
     - To create the collisions that will bounce of your silhouette you will need to wait 2min to start that collision and your face will need to be closer to the camera
 
 ### Tutorials that helped me get through this sanely/not-so sanely:
